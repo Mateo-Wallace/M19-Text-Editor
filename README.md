@@ -2,7 +2,7 @@
 
 Navigation for each item to do
 - [ ] client folder
-    - [ ] webpack.config.js
+    - [x] webpack.config.js
     - [ ] src-sw.js
     - [ ] src folder
         - [ ] js folder
@@ -11,7 +11,7 @@ Navigation for each item to do
 
 Tasks for each item to do
 
-- [ ] webpack.config.js
+- [x] webpack.config.js
 - [ ] src-sw.js
 - [ ] database.js
 - [ ] install.js
