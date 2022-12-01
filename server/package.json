@@ -1,14 +1,14 @@
 {
-    "name": "JATE",
+    "name": "jate",
     "version": "1.0.0",
-    "description": "",
+    "description": "Text Editor web application. Practice for Progressive Web Applications",
     "main": "server.js",
     "scripts": {
         "server": "nodemon server.js --ignore client"
     },
     "keywords": [],
-    "author": "",
-    "license": "ISC",
+    "author": "Mateo Wallace",
+    "license": "MIT",
     "dependencies": {
         "express": "^4.17.1"
     },
