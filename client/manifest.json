@@ -1,0 +1,19 @@
+{
+    "short_name": "Manifest",
+    "name": "JATE",
+    "icons": [
+      {
+        "src": "./src/images/logo.png",
+        "type": "image/png",
+        "sizes": "500x500",
+        "purpose": "any maskable"
+      }
+    ],
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./",
+    "description": "Just Another Text Editor",
+    "background_color": "#7eb4e2",
+    "theme_color": "#7eb4e2"
+}
+  
