@@ -13,5 +13,8 @@ Tasks for each item to do
 
 - [x] webpack.config.js
 - [ ] src-sw.js
+    - [ ] TODO: Implement asset caching
 - [ ] database.js
+    - [ ] TODO: getDb
+    - [ ] TODO: putDb
 - [x] install.js
