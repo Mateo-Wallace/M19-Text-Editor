@@ -28,7 +28,7 @@ While building this project I learned to:
 
 ## Installation
 
-Text Editor is a deployed web application. Most users must simply navigate to [shocase.herokuapp.com/](https://shocase.herokuapp.com/)
+Text Editor is a deployed web application. Most users must simply navigate to [m19-text-editor.herokuapp.com/](https://m19-text-editor.herokuapp.com/)
 
 Should you wish to download the project locally you must:
 
